@@ -1,4 +1,9 @@
 # Network-automation-using-terrafom
+         -we are going to automatically create 4 resources i.e
+             ******Vm1
+             ******Vm2
+             ******VPC Network
+             ******Firewall rules
 
 ## To Automate your network on Terraform, You will need:
         -A GCP Account (Created Using a Visa card or Virtual Visa Card with an Account balance of at least 1$)

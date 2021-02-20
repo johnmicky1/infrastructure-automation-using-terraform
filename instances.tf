@@ -1,3 +1,4 @@
+#Two Vm instances to be created
 resource "google_compute_instance" "my-vm" {
   name         = "mikes-vm1"
   machine_type = "n1-standard-1"
